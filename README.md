@@ -6,3 +6,5 @@
 * Was going to add player.jsx but decided to just keep the switching of players within Board.jsx
 
 You can build the project into your phone using xcode and pointing it to your phone instead of a simulator.
+
+![tictactoe](/images/tic_tac_toe.gif)
